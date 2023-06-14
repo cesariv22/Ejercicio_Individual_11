@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio_Individual_11</string>
+    <string name="title_app">Ejercicio Toast</string>
+    <string name="txt_btn_1">Turn off flight mode</string>
+    <string name="txt_btn_2">Updating profile</string>
+    <string name="txt_btn_3">Picture saved to galery</string>
+    <string name="txt_btn_4">Unlocked level 5</string>
+    <string name="txt_btn_5">⭐ Level 4 completed ⭐</string>
+    <string name="txt_btn_6">Music paused</string>
+    <string name="img_description">logo android os</string>
+</resources>
